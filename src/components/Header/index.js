@@ -10,7 +10,7 @@ export default function Header() {
 
   return (
     <Container>
-      <h1>JStack's Blog</h1>
+      <h1>Click on the icon to toggle theme {"=>"}</h1>
       <button
        type="button" 
        onClick={onToggleTheme}
